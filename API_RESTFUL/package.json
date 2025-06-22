@@ -1,0 +1,17 @@
+{
+  "name": "api_restful",
+  "version": "1.0.0",
+  "main": "Index.js",
+  "type": "module",
+  "scripts": {
+    "dev":"node --watch Index.js",
+    "start":"node Index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "5.1.0"
+  }
+}

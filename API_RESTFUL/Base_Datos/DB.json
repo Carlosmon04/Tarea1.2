@@ -1,0 +1,57 @@
+[
+  {
+    "id": 2,
+    "nombre": "Mouse inalámbrico Logitech",
+    "precio": 25,
+    "descripcion": "Mouse ergonómico con conexión Bluetooth eficiente.",
+    "disponible": true,
+    "fecha_ingreso": "2024-06-02T11:30:00Z"
+  },
+  {
+    "id": 3,
+    "nombre": "Teclado Mecánico Redragon",
+    "precio": 60,
+    "descripcion": "Teclado con switches rojos ideal para gaming.",
+    "disponible": false,
+    "fecha_ingreso": "2024-06-03T09:15:00Z"
+  },
+  {
+    "id": 4,
+    "nombre": "Monitor Samsung 24''",
+    "precio": 180,
+    "descripcion": "Monitor LED Full HD de 24 pulgadas para oficina.",
+    "disponible": true,
+    "fecha_ingreso": "2024-06-04T14:45:00Z"
+  },
+  {
+    "id": 5,
+    "nombre": "Audífonos JBL Tune 500",
+    "precio": 45,
+    "descripcion": "Audífonos inalámbricos con buena calidad de sonido.",
+    "disponible": false,
+    "fecha_ingreso": "2024-06-05T13:20:00Z"
+  },
+  {
+    "id": 1750565833514,
+    "nombre": "Teclado Logitech",
+    "precio": 50,
+    "descripcion": "Teclado mecánico retroiluminado",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-22T04:17:13.514Z"
+  },
+  {
+    "id": 1750597029425,
+    "nombre": "Teclado Logitech",
+    "precio": 50,
+    "disponible": true,
+    "fecha_ingreso": "2025-06-22T12:57:09.425Z"
+  },
+  {
+    "id": 1750598227123,
+    "nombre": "M",
+    "precio": 1,
+    "descripcion": "Memoria para PC's",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-22T13:17:07.123Z"
+  }
+]
